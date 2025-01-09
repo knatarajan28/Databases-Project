@@ -7,7 +7,7 @@ purchase products from the suppliers. The money paid for the products purchased 
 owners back to the owner’s delivery service, helping each stay in business.
 
 # Outline of my Approach
-• Translated an Enhanced Entity-Relationship Diagram (EERD) into a comprehensive set of relational schemas,
+• Translated an Enhanced Entity-Relationship Diagram used to chart out the blueprint of the database (EERD) into a comprehensive set of relational schemas,
 defining primary keys, unique keys, and foreign keys.
 
 • Developed SQL scripts including CREATE TABLE statements to build database structures and INSERT
